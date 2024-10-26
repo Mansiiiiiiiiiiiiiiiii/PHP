@@ -40,7 +40,7 @@ This repository demonstrates fundamental PHP concepts through a hands-on project
 
 ## Technologies Used
 
-- ![PHP](https://www.php.net/images/logos/php-logo.svg) PHP
+- PHP
 - MySQL
 - HTML
 - CSS
