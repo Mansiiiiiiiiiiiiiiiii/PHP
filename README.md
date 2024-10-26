@@ -11,7 +11,6 @@ Welcome to the PHP Basics and Trip Form Project repository! This project serves 
 - [File Structure](#file-structure)
 - [Form Details](#form-details)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 
 ## Introduction
 
