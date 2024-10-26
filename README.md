@@ -67,7 +67,7 @@ To get started with this project, follow these steps:
    - Open the `db.php` file and update the database connection details as needed.
 
 5. **Access the Project:**
-   - Place the project folder in the `htdocs` directory of your XAMPP installation (e.g., `C:\xampp\htdocs\php-trip-form`).
+   - Place the project folder in the `htdocs` directory of your XAMPP installation (e.g., `C:\xampp\htdocs\php-trip`).
    - Open a web browser and go to `http://localhost/php/db.php`.
 
 ## File Structure
